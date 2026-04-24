@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @vedansharya388
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning ...
+- 🌱 I'm interested in robotics
   
 <!---
 vedansharya388/vedansharya388 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
